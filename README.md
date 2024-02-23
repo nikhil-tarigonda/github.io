@@ -12,6 +12,11 @@ Visualization: Matplotlib, Seaborn, Plotly, Ggplot2, R-shiny, Tableau, Power BI,
 Databases: PostgreSQL, Elasticsearch, MySQL
 Big Data: Pyspark, Hadoop, EMR
 
+### Certifications
+Azure Data Scientist Associate
+Snowflake - Snowpro Core Certification
+AWS Cloud Practitioner Certification
+
 ### Work Experience
 Data Scientist @ EY
 
