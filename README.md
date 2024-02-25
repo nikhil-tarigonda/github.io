@@ -5,11 +5,17 @@ Masters in Statistics with Data Science Concentration
 
 ### Professional Skills
 Programming: Python, R, SQL, Java	
+
 Machine Learning: Classification, Regression, Clustering, Neural Networks, NLP, Scikit-learn, Tensorflow, Deep Learning	
+
 Cloud: Databricks, Snowflake, AWS, Azure	
+
 Container: Docker, Kubernetes	
+
 Visualization: Matplotlib, Seaborn, Plotly, Ggplot2, R-shiny, Tableau, Power BI, Quicksight, Looker	
+
 Databases: PostgreSQL, Elasticsearch, MySQL	
+
 Big Data: Pyspark, Hadoop, EMR	
 
 ### Certifications
